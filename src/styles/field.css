@@ -1,0 +1,12 @@
+.field-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+.winning-message {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
